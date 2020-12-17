@@ -25,6 +25,8 @@ Privacy is a central focus of Firefox: It supports a [Do Not Track Feature](http
 
 * Delete Cookies: [Cookie-AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
 
+* Limit Third Party Access To Facebook: [Facebook Disconnect](https://mybrowseraddon.com/facebook-disconnect.html)
+
 * Simplified Terms of Service: [Terms of Service; Didn't Read: Be Informed](https://tosdr.org/) - this will not directly increase privacy, but makes privacy policies much more digestable and easy to interpret.
 
 EFF provides a great, very straightforward [resource](https://coveryourtracks.eff.org/) for evaluating your current broswer performance in respect to fingerprinting and tracking.
@@ -124,3 +126,11 @@ If you're interested in creating enterprise grade security for the entirity of y
 If you're concerned about attacks from government agencies, then something like [OpenBSD](https://www.openbsd.org/) may be necessary, as macOS may be [vulnerable](https://theintercept.com/document/2015/03/10/strawhorse-attacking-macos-ios-software-development-kit/).
 
 A somewhat less radical approach would be employing [Whonix](https://www.whonix.org/), a full fledged, privacy centric operating system that can run within your current OS on a virtual machine. It's also [open-source](https://github.com/Whonix)!
+
+  
+# Sources:
+* https://epic.org/privacy/tools.html
+* https://privacytools.io/
+* https://medium.com/@gdgr/maintaining-privacy-online-in-an-ever-changing-and-somewhat-orwellian-landscape-2b1e41afec99
+* https://github.com/drduh/macOS-Security-and-Privacy-Guide#firefox
+* http://www.rogerclarke.com/DV/PET2-1611.pdf
